@@ -1,0 +1,64 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Ben Bloom
+title: Software Engineer
+email: bbloom22@gmail.com
+website: www.benbloom.dev
+
+# Social links
+# twitter_username: facespics
+github_username:  bloomb
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: benjamin-bloom-666287106
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello! I'm Ben Bloom and I'm a Software Engineer
+   
+  I have been programming since my early years in high school. It is fun being able to explore and discover what makes modern technology work.
+  Recently, my passions have been cloud technologies and mobile development on iOS
+
+  Programming Languages I like having fun with: <mark>Swift</mark>, <mark>Python</mark>, and <mark>Javascript</mark>
+
+  Techonolgies I have experience with: <mark>AWS</mark>, <mark>Serverless</mark>, <mark>Native iOS Development</mark>, <mark>ansible</mark>
+  and <mark>git</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: Life Outside the Code
+more_content: | # this will include new lines to allow paragraphs
+  While coding and developing software are major passions of mine, I do like to get out and explore other things. 
+  When not on a computer, I enjoy running and working out. I feel that staying active is helps me maintain my sanity when squashing bugs in my code.
+  I also consider myself a bit of a sneakerhead. I am always on the lookout for the newest and greatest shoe release.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

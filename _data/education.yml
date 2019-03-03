@@ -1,0 +1,11 @@
+- name: The Ohio State University 
+  dates: 2013 - 2017
+  qualification: B.S. Computer Science and Engineering
+  # quote: >
+    # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    Throughout my time at The Ohio State University, I was to explore diverse subject matter and work with very incredible people. 
+    I was able to learn many technical skills. This includes a love of security through CTFs in my information security classes, a brief introduction to AI by creating algorithms for basic image detection, and building a fitness web in my web application course.
+    
+    While at Ohio State, I also had the privilege to be a member of the first class of the <mark>Integrated Business and Engineering Honors Program.</mark>
+    This is a four year program that is designed to develop the ability to communicate across business and technical domains by bringing together a mixture of incredible students from many backgrounds
