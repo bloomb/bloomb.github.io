@@ -5,12 +5,12 @@
   # quote: >
   #  Leading humanity to healthy, vibrant lives
   description: | # this will include new lines to allow paragraphs
-    When I first join Magellan Health, I was worked on <mark>AWS</mark> and <mark>native iOS</mark>. I was responsible for creating a backend for a mobile application using serverless technologies. 
-    This was my first major introduction to AWS and the world of serverless. While I was learning and building a serverless backend, I also was assisting in the development of the front end
-    iOS application.
+    When I first join Magellan Health, I was working on <mark>AWS</mark> and <mark>native iOS</mark>. I was responsible for creating a backend for a mobile application using <mark>serverless</mark> technologies. 
+    This was my first major introduction to AWS and the world of serverless. While I was learning about AWS and building the backend, I also was assisting in the development of the front end
+    <mark>iOS application</mark> in <mark>swift</mark>.
 
-    After a while, I was transfered to the AWS Cloud Infrastructure team at Magellan Health. Currently, I help manage Magellan Health's AWS accounts by helping build a centralized account
-    managing system using ansible and cloudformation. 
+    After a while, I was transfered to the AWS Cloud Infrastructure team at Magellan Health. Today, I help manage Magellan Health's AWS Infrastructure by working on centralized account
+    managing system using <mark>ansible</mark>, providing insight and guidience to teams new to the cloud, and using <mark>serverless</mark> technologies to automate monitering and alerts. 
 - company: The Ohio State University
   link: https://www.linkedin.com/school/the-ohio-state-university/
   job_title: Student Programmer
@@ -19,7 +19,7 @@
   #  A long tradition of excellence in research, teaching, and service
   description: |
     I was the head of creating <mark>matlab</mark> software to both collect and analyze subject's data on their ability to track motion for The Ohio State's Department of Psychology.
-    During my time here, I used  <mark>object oriented design</mark> to improve development time. What used to take weeks to create, now only takes a few days.
+    During my time here, I used  <mark>object oriented design</mark> to greatly improve development time. What used to take weeks to create, now only takes a few days.
 
 - company: Healthy Roster
   link: https://www.linkedin.com/company/healthyroster/
@@ -28,9 +28,9 @@
   # quote: >
   #  Help healthcare organizations utilize technology to better support parents, coaches, and youth athletes with athletic training services
   description: |
-    As a iOS Developer Intern, I was responsible for the development of Healthy Roster's iOS application. At the time, I was the sole developer working on the iOS application.
+    As a iOS Developer Intern, I was responsible for the development of Healthy Roster's iOS application in native <mark>swift</mark>. At the time, I was the sole developer working on the iOS application.
     I manage to add a variety of features to Healthy Roster's iOS application while I was there. Some of the features included creating a secure way of collecting student athlete's information using iOS apis for guided access and
-    total update to the applications design, and integrating new features that connected our application to Healthy Roster's databases.
+    total update to the applications design, and integrating new api endpoints that connected the application to Healthy Roster's databases.
 - company: 2Checkout
   link: https://www.linkedin.com/company/2checkout/
   job_title: Software Developer Intern
@@ -38,4 +38,4 @@
   # quote: >
   #  We will maximize the value of every digital buyer and subscriber worldwide for our clients
   description: |
-    During my time at 2Checkout, my primary task was to create SDKs that integrated with their new api. This included  a variety of new langauges to me such as Ruby, C#, and Javscript.
+    During my time at 2Checkout, my primary task was to create <mark>SDKs</mark> that integrated with their new api. This included  a variety of new langauges to me such as <mark>Ruby</mark>, <mark>C#</mark>, and <mark>Javscript.</mark>
