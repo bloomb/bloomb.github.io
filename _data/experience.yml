@@ -5,7 +5,7 @@
   # quote: >
   #  Leading humanity to healthy, vibrant lives
   description: | # this will include new lines to allow paragraphs
-     When I first join Magellan Health, I was working on <mark>AWS</mark> and <mark>native iOS</mark>. I was responsible for creating a backend for a mobile application using serverless technologies on aws. 
+    When I first join Magellan Health, I was working on <mark>AWS</mark> and <mark>native iOS</mark>. I was responsible for creating a backend for a mobile application using serverless technologies on aws. 
     This was my first introduction to AWS and the world of serverless. While I was learning about AWS and building the backend, I also was assisting in the development of the front end
     iOS application in <mark>Swift</mark>.
 
