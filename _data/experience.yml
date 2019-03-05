@@ -6,11 +6,11 @@
   #  Leading humanity to healthy, vibrant lives
   description: | # this will include new lines to allow paragraphs
     When I first join Magellan Health, I was working on <mark>AWS</mark> and <mark>native iOS</mark>. I was responsible for creating a backend for a mobile application using <mark>serverless</mark> technologies. 
-    This was my first major introduction to AWS and the world of serverless. While I was learning about AWS and building the backend, I also was assisting in the development of the front end
-    <mark>iOS application</mark> in <mark>Swift</mark>.
+    This was my first introduction to AWS and the world of serverless. While I was learning about AWS and building the backend, I also was assisting in the development of the front end
+    iOS application in <mark>Swift</mark>.
 
     After a while, I was transfered to the AWS Cloud Infrastructure team at Magellan Health. Today, I help manage Magellan Health's AWS Infrastructure by working on centralized account
-    managing system using <mark>ansible</mark>, providing insight and guidience to teams new to the cloud, and using <mark>serverless</mark> technologies to automate monitering and alerts. 
+    managing system using ansible, providing insight and guidience to teams new to the cloud, and using serverless technologies to automate monitering and alerts. 
 - company: The Ohio State University
   link: https://www.linkedin.com/school/the-ohio-state-university/
   job_title: Student Programmer
