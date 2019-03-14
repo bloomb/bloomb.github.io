@@ -24,12 +24,12 @@ linkedin_username: benjamin-bloom-666287106
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm Ben Bloom and I'm a Software Engineer
+  Hello! I'm Ben Bloom and I'm a Software Engineer.
    
   I have been programming since my early years in high school. I enjoy building and hacking things.
-  Recently, my passions have been cloud technologies and mobile development on iOS.
+  Recently, my passions are cloud technologies on AWS and  mobile development on iOS.
 
-  Programming Languages I like having fun with: <mark>Swift</mark>, <mark>Python</mark>, and <mark>Javascript</mark>
+  Programming Languages I have fun with: <mark>Swift</mark>, <mark>Python</mark>, and <mark>Javascript</mark>
 
   Techonolgies I have experience with: <mark>AWS</mark>, <mark>Serverless</mark>, <mark>iOS Development</mark>, <mark>Ansible</mark>
   and <mark>Git</mark>
@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Life Outside the Code
 more_content: | # this will include new lines to allow paragraphs
   While coding and developing software are major passions of mine, I do like to get out and explore other things. 
-  When not on a computer, I enjoy running and working out. I feel that staying active is helps me maintain my sanity when squashing bugs in my code.
+  When not on a computer, I enjoy running and working out. I staying active helps me maintain my sanity when squashing bugs in my code.
   I also consider myself a bit of a sneakerhead. I am always on the lookout for the newest and greatest shoe release.
 
 # Footer
